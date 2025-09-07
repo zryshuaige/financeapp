@@ -40,7 +40,7 @@ python manage.py runserver
 pnpm run dev
 
 分别在http://localhost:5173/ 预览页面
-和[http://localhost:5173/](http://127.0.0.1:8000/admin/)管理数据库
+和http://127.0.0.1:8000/admin/管理数据库
 
 
 ### 技术栈
